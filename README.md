@@ -27,4 +27,12 @@ python train.py
 ```
 > Output: the file "model.tar"
 
+## Evaluation
+
+To evaluate my model in the paper:
+
+```setup
+python evaluate.py
+```
+
 
